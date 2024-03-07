@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ahmed.github.io/static/css/main.134c00f7.css",
+    "main.js": "/ahmed.github.io/static/js/main.34adf0bf.js",
+    "static/js/453.ed3810f9.chunk.js": "/ahmed.github.io/static/js/453.ed3810f9.chunk.js",
+    "static/media/background1.jpg": "/ahmed.github.io/static/media/background1.751e78bcc5f7c47ede77.jpg",
+    "static/media/ahmedandruni.jpeg": "/ahmed.github.io/static/media/ahmedandruni.328d069e35072778be82.jpeg",
+    "static/media/ahmedandruffy.jpeg": "/ahmed.github.io/static/media/ahmedandruffy.250174f27456369f9e58.jpeg",
+    "static/media/ahmed1.jpeg": "/ahmed.github.io/static/media/ahmed1.7df400eefa26e9c12330.jpeg",
+    "static/media/MouldyCheeseRegular-WyMWG.ttf": "/ahmed.github.io/static/media/MouldyCheeseRegular-WyMWG.41dbb44e92be1835c64c.ttf",
+    "index.html": "/ahmed.github.io/index.html",
+    "main.134c00f7.css.map": "/ahmed.github.io/static/css/main.134c00f7.css.map",
+    "main.34adf0bf.js.map": "/ahmed.github.io/static/js/main.34adf0bf.js.map",
+    "453.ed3810f9.chunk.js.map": "/ahmed.github.io/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.134c00f7.css",
+    "static/js/main.34adf0bf.js"
+  ]
+}
